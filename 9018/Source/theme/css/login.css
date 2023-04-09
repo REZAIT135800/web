@@ -1,0 +1,21 @@
+.login-form-container {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    height: 100%;    
+}
+
+.login-form-container .login-form {
+    width: 400px;
+    margin: 32px auto auto auto;
+    padding: 16px;
+}
+
+.login-form-container input {
+    width: 340px;
+    margin-top: 16px;
+}
+
+.login-form-container .buttons {
+    margin: 16px auto auto auto;
+}

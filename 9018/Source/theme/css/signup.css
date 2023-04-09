@@ -1,0 +1,21 @@
+.signup-form-container {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    height: 100%;    
+}
+
+.signup-form-container .signup-form {
+    width: 400px;
+    margin: 32px auto auto auto;
+    padding: 16px;
+}
+
+.signup-form-container input {
+    width: 340px;
+    margin-top: 16px;
+}
+
+.signup-form-container .buttons {
+    margin: 16px auto auto auto;
+}
